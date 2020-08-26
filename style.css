@@ -1,0 +1,47 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  background: red;
+  width: 33px;
+  height: 33px;
+  margin: 33px;
+  padding: 33px;
+}
+.float {
+  float: left;
+}
+.clear{
+  clear: both;
+}
+.box_wrap {
+  padding: 15px;
+  background: #eee;
+  margin-bottom: 30px;
+}
+.box_wrap2 {
+  padding: 15px;
+  background: blue;
+}
+.container {
+  padding: 15px;
+  width: 100%;
+  max-width: 800px;
+}
+.box_full_width {
+  width: inherit;
+}
+.lala {
+  padding: 15px;
+}
+.k1 {
+  padding: 15px;
+  float: left;
+  width: 300px;
+}
+.k1 img {
+  width: 100%;
+}
